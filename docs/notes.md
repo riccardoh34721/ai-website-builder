@@ -5,3 +5,4 @@ Notes and usage details for ai-website-builder.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
